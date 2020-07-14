@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+## [2.3.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.2.0...v2.3.0) (2020-07-14)
+
+
+### Features
+
+* Add support for server-side flow control ([#1041](https://www.github.com/googleapis/nodejs-pubsub/issues/1041)) ([a53f6c7](https://www.github.com/googleapis/nodejs-pubsub/commit/a53f6c755317f2fdcb107989321a78fa05e0c455))
+
+
+### Bug Fixes
+
+* typeo in nodejs .gitattribute ([#1049](https://www.github.com/googleapis/nodejs-pubsub/issues/1049)) ([b4c6dc0](https://www.github.com/googleapis/nodejs-pubsub/commit/b4c6dc0264a4f62283ceb3b5e1e2ae58e06c56c1))
+
 ## [2.2.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.1.0...v2.2.0) (2020-07-09)
 
 
